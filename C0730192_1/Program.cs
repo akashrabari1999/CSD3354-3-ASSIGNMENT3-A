@@ -37,7 +37,7 @@ namespace C0730192_1
         }
 
         public string CustomerName
-
+            
         {
             get { return m_customerName; }
         }
