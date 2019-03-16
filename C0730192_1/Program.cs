@@ -25,7 +25,7 @@ namespace C0730192_1
         private bool m_frozen = false;
         public const string DebitAEBM = "debit amount exceeds balance";
         public const string DebitALTZM = "debit amount less han zero";
-
+        
         private BankAccount()
         {
 
